@@ -25,7 +25,7 @@ const longShot = async (url) => {
   await page.waitForTimeout(3000);
 
   await page.screenshot({
-    path: path.join(downloadFolder, `img-${timestamp}.png`),
+    path: path.join(downloadFolder, `longShot-${timestamp}.png`),
     fullPage: true,
   });
   await browser.close();

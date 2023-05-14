@@ -1,6 +1,6 @@
 # LongShot
 
-An Open Source Desktop App to take Long Screenshot of any webpage. I tested it on windows only, But it can run on all three major platforms Mac, Linux or Windows.
+An Open Source Desktop App to take Long Screenshot of any webpage. I tested it on windows only, But it can run on all three major platforms Mac, Linux and Windows.
 
 Feel free to Fork and Contribute, Things you can do:
 
